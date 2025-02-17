@@ -18,5 +18,5 @@
 | **Машинное обучение**                        | - **scikit-learn**<br/>- **XGBoost**                                                                                                                                                       |
 | **Инструменты разработки**                   | - **Git**                                                                                                                                                                                  |
 
-[Моё портфолио 😊](https://github.com/KsyLight/portfolio/tree/main)
+[Моё портфолио 😊](https://github.com/KsyLight/portfolio/tree/main) <br>
 [Все проекты 🌟](https://github.com/KsyLight/my_projects)
