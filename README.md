@@ -41,6 +41,7 @@
 ### 🌟 Моё портфолио и выполненные проекты
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KsyLight&repo=portfolio&theme=default)](https://github.com/KsyLight/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KsyLight&repo=cv-analyzer-gazprom-neft)](https://github.com/KsyLight/cv-analyzer-gazprom-neft)
 
 
 ![GitHub Snake Dark](https://ksylight.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark)
