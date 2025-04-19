@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=KsyLight)
 # Привет, я Василенко Егор
 
+<h1 align="center">Привет, я Егор 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF00B8&center=true&vCenter=true&repeat=true&width=1000&lines=Аналитик+данных+|+Продуктовый+аналитик+|+BI-аналитик+|+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=FF00B8&center=true&vCenter=true&repeat=false&width=1000&lines=Аналитик+данных,+Продуктовый+аналитик,+BI-аналитик,+Data+Scientist" alt="Typing SVG" />
 </p>
 
 ### Немного о себе
