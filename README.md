@@ -16,10 +16,6 @@
   - 2-е место в командном зачёте по микроэкономике
 ### Технический стек
 
-### 🛠️ Технический стек
-
-[![](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scipy,scikit-learn,xgboost,postgres,sqlite,jupyter,vscode,pycharm,excel,ppt,word,sheets&perline=8)](https://skillicons.dev)
-
 #### Языки
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
