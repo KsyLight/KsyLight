@@ -38,7 +38,7 @@
 [Моё портфолио 🌟](https://github.com/KsyLight/portfolio/tree/main) <br>
 Все проекты можно увидеть, полазив по репозиториям 😊
 
-### 🌟 Моё портфолио
+### 🌟 Моё портфолио и выполненные проекты
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KsyLight&repo=portfolio&theme=default)](https://github.com/KsyLight/portfolio)
 
