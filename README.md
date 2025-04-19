@@ -16,7 +16,7 @@
   - 1-е место в командном зачёте по макроэкономике  
   - 2-е место в командном зачёте по микроэкономике
 ### Технический стек и навыки
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 | **Категория**                                | **Список**                                                                                                                                                                                 |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Языки программирования и библиотеки**      | - **SQL** (оконные функции, CTE'шки, JOIN'ы, агрегирующие функции, подзапросы, оптимизация)<br/>- **Python** (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Phik и другие библиотеки)         |
