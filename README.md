@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=KsyLight)
----
 # Василенко Егор
 ## Аналитик данных | Продуктовый аналитик | BI-аналитик | Data Scientist
 
