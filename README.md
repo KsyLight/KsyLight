@@ -26,3 +26,5 @@
 
 [Моё портфолио 🌟](https://github.com/KsyLight/portfolio/tree/main) <br>
 Все проекты можно увидеть, полазив по репозиториям 😊
+
+![GitHub Snake Dark](https://ksylight.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark)
