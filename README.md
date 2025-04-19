@@ -1,8 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=KsyLight)
-[![Yandex](https://img.shields.io/badge/Yandex-Mail-red?style=for-the-badge&logo=yandex&logoColor=white)](mailto:egor.vasilenko.2004@yandex.ru)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksylight20.08@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ksylight)
 
 # Василенко Егор
 ## Аналитик данных | Продуктовый аналитик | BI-аналитик | Data Scientist
@@ -50,3 +46,8 @@
 
 
 ![GitHub Snake Dark](https://ksylight.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+[![Yandex](https://img.shields.io/badge/Yandex-Mail-red?style=for-the-badge&logo=yandex&logoColor=white)](mailto:egor.vasilenko.2004@yandex.ru)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksylight20.08@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ksylight)
