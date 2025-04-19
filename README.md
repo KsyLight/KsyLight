@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=KsyLight)
+![Profile Views](https://komarev.com/ghpvc/?username=KsyLight&style=for-the-badge)
 [![Yandex](https://img.shields.io/badge/Yandex-Mail-red?style=for-the-badge&logo=yandex&logoColor=white)](mailto:egor.vasilenko.2004@yandex.ru)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksylight20.08@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
