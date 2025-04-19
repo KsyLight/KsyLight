@@ -1,9 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=KsyLight)
-<h1 align="center">Привет, я Егор 👋</h1>
+<h1 align="center">
+  Привет, я Егор!  
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=FF00B8&multiline=true&lines=Аналитик данных | Продуктовый аналитик | BI-аналитик | Data Scientist" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=FF00B8&multiline=true&lines=Аналитик+данных;Продуктовый+аналитик;BI-аналитик;Data+Scientist" alt="Typing SVG" />
 
 ### Немного о себе
 🎓 **Студент СПбГЭУ** по направлению «Экономика» и профилю «Математическое моделирование и анализ данных в экономике» (3 курс).
