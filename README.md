@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=KsyLight)
-<h1 align="center">
-  Привет, я Егор!  
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
-</h1>
+<h1 align="center">Привет, я Егор <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/waving-hand_1f44b.png" width="30"/></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=FF00B8&multiline=true&lines=Аналитик+данных;Продуктовый+аналитик;BI-аналитик;Data+Scientist" alt="Typing SVG" />
 
