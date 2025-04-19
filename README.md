@@ -41,9 +41,6 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-[Моё портфолио 🌟](https://github.com/KsyLight/portfolio/tree/main) <br>
-Все проекты можно увидеть, полазив по репозиториям 😊
-
 ### 🌟 Моё портфолио и выполненные проекты
 
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=KsyLight&repo=portfolio&theme=radical)](https://github.com/KsyLight/portfolio)
