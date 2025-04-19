@@ -2,7 +2,7 @@
 <h1 align="center">Привет, я Егор 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=FF00B8&multiline=true&lines=Аналитик+данных;Продуктовый+аналитик;BI-аналитик;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=FF00B8&multiline=true&lines=Аналитик данных | Продуктовый аналитик | BI-аналитик | Data Scientist" alt="Typing SVG" />
 </p>
 
 ### Немного о себе
