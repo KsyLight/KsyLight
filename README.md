@@ -38,4 +38,6 @@
 [Моё портфолио 🌟](https://github.com/KsyLight/portfolio/tree/main) <br>
 Все проекты можно увидеть, полазив по репозиториям 😊
 
+[![Readme Card](https://github.com/KsyLight/cv-analyzer-gazprom-neft)](https://github.com/KsyLight/portfolio)
+
 ![GitHub Snake Dark](https://ksylight.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark)
