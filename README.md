@@ -50,4 +50,4 @@
 [![cv-analyzer-gazprom-neft](https://github-readme-stats.vercel.app/api/pin/?username=KsyLight&repo=cv-analyzer-gazprom-neft&theme=radical)](https://github.com/KsyLight/cv-analyzer-gazprom-neft)
 
 
-![GitHub Snake Dark](https://ksylight.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake](https://raw.githubusercontent.com/<USER>/<REPO>/main/svg-only/dist/github-contribution-grid-snake-dark.svg)
