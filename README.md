@@ -14,8 +14,6 @@
 
 ✏️ Продолжаю обучение на курсе «Аналитик данных расширенный» от «Яндекс Практикума». Основная часть завершена, впереди — углублённое изучение продуктовой аналитики.
 
----
-
 ### Основной стек технологий и инструментов
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,8 +34,6 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
----
-
 ### 🌟 Моё портфолио и выполненные проекты
 
 <div align="center">
@@ -47,6 +43,8 @@
 [![cv-analyzer-gazprom-neft](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=cv-analyzer-gazprom-neft&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012)](https://github.com/KsyLight/cv-analyzer-gazprom-neft)
 
 </div>
+
+---
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gxkc4jt7vsy3p67d4g4azjt3ju)
 
