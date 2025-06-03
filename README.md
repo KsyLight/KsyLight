@@ -37,9 +37,9 @@
 
 <div align="center">
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio&bg_color=001f5b&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=d1001f)](https://github.com/KsyLight/portfolio)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio&bg_color=000e2f&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=d1001f)](https://github.com/KsyLight/portfolio)
 &nbsp; &nbsp;
-[![cv-analyzer-gazprom-neft](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=cv-analyzer-gazprom-neft&bg_color=001f5b&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=d1001f)](https://github.com/KsyLight/cv-analyzer-gazprom-neft)
+[![cv-analyzer-gazprom-neft](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=cv-analyzer-gazprom-neft&bg_color=000e2f&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=d1001f)](https://github.com/KsyLight/cv-analyzer-gazprom-neft)
 
 </div>
 
