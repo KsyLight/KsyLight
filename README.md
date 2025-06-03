@@ -48,6 +48,8 @@
 
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gxkc4jt7vsy3p67d4g4azjt3ju)
+
 ---
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/KsyLight/snk/main/svg-only/dist/github-contribution-grid-snake-dark.svg)
