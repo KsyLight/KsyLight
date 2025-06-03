@@ -6,17 +6,14 @@
 
 ![Header](./readme-header.png)
 
-# Василенко Егор
-## Data Scientist | ML-Engineer | Продуктовый аналитик
-
-### Немного о себе
+## Немного о себе
 🎓 **Студент СПбГЭУ** по направлению «Экономика» и профилю **«Математическое моделирование и анализ данных в экономике»** (3 курс).
 
 🌱 Участник в **ШАД (Школе анализа данных) от МТС**, которая готовит Data Scientist'ов и ML специалистов.
 
 ✏️ Продолжаю обучение на курсе «Аналитик данных расширенный» от «Яндекс Практикума». Основная часть завершена, впереди — углублённое изучение продуктовой аналитики.
 
-### Основной стек технологий и инструментов
+## Основной стек технологий и инструментов
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -36,7 +33,7 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### Моё портфолио и выполненные проекты
+## Моё портфолио и выполненные проекты
 
 <div align="center">
 
