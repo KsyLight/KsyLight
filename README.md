@@ -4,10 +4,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ksylight)
 
-<h2 align="center">
+<h1 align="center">
   <strong>Василенко Егор</strong><br>
   <span style="font-weight:normal;">Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Продуктовый аналитик</span>
-</h2>
+</h1>
 
 ## Немного о себе
 🎓 **Студент СПбГЭУ** по направлению «Экономика» и профилю **«Математическое моделирование и анализ данных в экономике»** (3 курс).
