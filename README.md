@@ -32,6 +32,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/-LightGBM-00A45E?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
