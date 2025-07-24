@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ksylight)
 
-<h1 align="center"><strong>Василенко Егор</strong></h1>
+<h1 align="center"><strong>Vasilenko Egor</strong></h1>
 
 <h3 align="center">
   Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; PA
