@@ -7,7 +7,7 @@
 <h1 align="center"><strong>Василенко Егор</strong></h1>
 
 <h3 align="center">
-  Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Продуктовый аналитик
+  Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; PA
 </h3>
 
 ## Немного о себе
