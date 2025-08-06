@@ -7,7 +7,7 @@
 <h1 align="center"><strong>Vasilenko Egor</strong></h1>
 
 <h3 align="center">
-  Data Scientist &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; PA
+  Data Scientist
 </h3>
 
 ## Немного о себе
