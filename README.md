@@ -38,7 +38,7 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Моё портфолио и выполненные проекты
+## My portfolio and completed projects
 
 <div align="center">
 
