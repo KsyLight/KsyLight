@@ -17,7 +17,7 @@
 
 ✏️ Продолжаю обучение на курсе «Аналитик данных расширенный» от «Яндекс Практикума» (почти завершил).
 
-## Основной стек технологий и инструментов
+## The main technology stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -55,7 +55,7 @@
 ![GitHub Snake dark](https://raw.githubusercontent.com/KsyLight/snk/main/svg-only/dist/github-contribution-grid-snake-dark.svg)
 
 <details>
-  <summary>Музыка</summary>
+  <summary>Music</summary>
   <br>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gxkc4jt7vsy3p67d4g4azjt3ju" alt="Spotify Recently Played">
 </details>
