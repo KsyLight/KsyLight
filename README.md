@@ -41,9 +41,13 @@
 
 <div align="center">
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012)](https://github.com/KsyLight/portfolio)
-&nbsp; &nbsp;
-[![mts-data-analysis-school](https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=mts-data-analysis-school&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012)](https://github.com/KsyLight/mts-data-analysis-school)
+<a href="https://github.com/KsyLight/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/KsyLight/mts-data-analysis-school">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=mts-data-analysis-school&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
+</a>
 
 </div>
 
