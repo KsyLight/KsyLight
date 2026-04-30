@@ -26,7 +26,7 @@
 
 ---
 
-## About me / Немного о себе
+## Немного о себе / About me
 
 <table>
 <tr>
@@ -77,7 +77,7 @@
 
 ---
 
-## Main stack / Основной стек
+## Основной стек / Main stack
 
 <div align="center">
 
@@ -122,7 +122,7 @@
 
 ---
 
-## Portfolio and projects / Портфолио и проекты
+## Портфолио и проекты / Portfolio and projects
 
 <div align="center">
 
