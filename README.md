@@ -19,8 +19,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio)
 [![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1NmF3tWnUEAds1IohUIkKuqZ1FickxIH9?usp=sharing)
-[![CV RU](https://img.shields.io/badge/CV-Russian-003566?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/KsyLight/portfolio)
-[![CV EN](https://img.shields.io/badge/CV-English-001D3D?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/KsyLight/portfolio)
+[![CV RU](https://img.shields.io/badge/CV-Russian-003566?style=for-the-badge&logo=readme&logoColor=white)]([https://github.com/KsyLight/portfolio](https://github.com/KsyLight/my-cv/blob/main/Russian_CV.pdf))
+[![CV EN](https://img.shields.io/badge/CV-English-001D3D?style=for-the-badge&logo=readme&logoColor=white)]([https://github.com/KsyLight/portfolio](https://github.com/KsyLight/my-cv/blob/main/Russian_CV.pdf))
 
 </div>
 
@@ -43,7 +43,7 @@
 🌱 Закончил **Школу аналитиков данных МТС** по Data Science.  
 [Сертификат](https://drive.google.com/file/d/1ffgTA2FAZaZ4rK5N6muA-hgDnmT8A7Gc/view?usp=sharing)
 
-✏️ Закончил курс **«Аналитик данных расширенный»** от **Яндекс Практикума**.  
+✏️ Закончил курс **«Аналитик данных расширенный»** от **Яндекс Практикума** с треком .  
 [Сертификаты и справка](https://drive.google.com/drive/folders/1NmF3tWnUEAds1IohUIkKuqZ1FickxIH9?usp=sharing)
 
 🏆 Достижения:  
