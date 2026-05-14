@@ -12,13 +12,14 @@
 <h1 align="center"><strong>Vasilenko Egor / Егор Василенко</strong></h1>
 
 <h3 align="center">
-  Data Scientist · ML Engineer · Data Analyst · Product Analyst
+  Data Science · ML Engineering · Data Analytics · Product Analytics
 </h3>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio)
-[![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1NmF3tWnUEAds1IohUIkKuqZ1FickxIH9?usp=sharing)
+[![DS/MLE Portfolio](https://img.shields.io/badge/Portfolio-DS%20%2F%20MLE-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio-ds-mle)
+[![DA/PA Portfolio](https://img.shields.io/badge/Portfolio-DA%20%2F%20PA-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio-da-pa)
+[![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1PhiiXpVWwbKa9gjhQxYCAbW0F1wYVqhb)
 [![CV RU](https://img.shields.io/badge/CV-Russian-003566?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/KsyLight/my-cv/blob/main/Russian_CV.pdf)
 [![CV EN](https://img.shields.io/badge/CV-English-001D3D?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/KsyLight/my-cv/blob/main/English_CV.pdf)
 
@@ -34,42 +35,44 @@
 
 ### 🇷🇺 Русский
 
-🎓 Студент 4 курса **СПбГЭУ** по направлению «Экономика», профиль — **«Математическое моделирование и анализ данных в экономике»**.
+🎓 Студент 4 курса **СПбГЭУ** по направлению **«Экономика»**, профиль — **«Математическое моделирование и анализ данных в экономике»**.
 
-💼 Развиваюсь в направлении **Data Science / Machine Learning**, отдельно интересуюсь **NLP, LLM, RAG-системами и агентными пайплайнами**.
+💼 Развиваюсь в направлениях **Data Science / ML Engineering** и **Data Analytics / Product Analytics**.
 
-🧠 Есть опыт стажировки **ML-инженером** в **Газпромнефть ИТО**: занимался разработкой RAG-сервиса для поиска и ответа по внутреннему реестру проектов.
+🧠 Основные интересы: **NLP, LLM, RAG-системы, гибридный поиск, антифрод, скоринг и прикладная аналитика данных**.
 
-🌱 Закончил **Школу аналитиков данных МТС** по Data Science.  
-[Сертификат](https://drive.google.com/file/d/1ffgTA2FAZaZ4rK5N6muA-hgDnmT8A7Gc/view?usp=sharing)
+⚙️ Есть опыт стажировки в направлении **ML Engineering / Data Science** в **Газпромнефть ИТО**: занимался разработкой RAG-сервиса для интеллектуального поиска по корпоративному Excel-реестру проектной информации.
 
-✏️ Закончил курс **«Аналитик данных расширенный»** от **Яндекс Практикума** с треком .  
-[Сертификаты и справка](https://drive.google.com/drive/folders/1NmF3tWnUEAds1IohUIkKuqZ1FickxIH9?usp=sharing)
+🌱 Закончил **Школу аналитиков данных МТС** по Data Science и курс **«Аналитик данных расширенный»** от **Яндекс Практикума**.  
+[Сертификаты](https://drive.google.com/drive/folders/1PhiiXpVWwbKa9gjhQxYCAbW0F1wYVqhb)
 
-🏆 Достижения:  
-- 1 место в секции от **Газпром нефти** на чемпионате **«ProЦифру»**
-- **Top-15%**, 12 место на **Cup IT 2025** в направлении «Анализ данных»
+🏆 Достижения:
+
+- 1-е место в кейс-чемпионате **«ProЦифру»**;
+- 1-е место в Kaggle-соревновании **ШАД МТС**;
+- **Top-15%**, 12-е место на **Cup IT 2025** в направлении «Анализ данных».
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇬🇧 English
 
-🎓 4th-year student at **Saint Petersburg State University of Economics**, majoring in **Economics** with a profile in **Mathematical Modeling and Data Analysis in Economics**.
+🎓 4th-year student at **Saint Petersburg State University of Economics**, majoring in **Economics**, with a profile in **Mathematical Modeling and Data Analysis in Economics**.
 
-💼 I am developing in **Data Science / Machine Learning**, with a particular interest in **NLP, LLMs, RAG systems and agent-based pipelines**.
+💼 I am developing in **Data Science / ML Engineering** and **Data Analytics / Product Analytics**.
 
-🧠 I have experience as an **ML Engineer Intern** at **Gazpromneft ITO**, where I worked on a RAG-based service for search and question answering over an internal project registry.
+🧠 Main interests: **NLP, LLMs, RAG systems, hybrid search, fraud detection, scoring and applied data analytics**.
 
-🌱 Completed the **MTS Data Analysts School** in Data Science.  
-[Certificate](https://drive.google.com/file/d/1ffgTA2FAZaZ4rK5N6muA-hgDnmT8A7Gc/view?usp=sharing)
+⚙️ I have internship experience in **ML Engineering / Data Science** at **Gazpromneft ITO**, where I worked on a RAG-based service for intelligent search over a corporate Excel-based project registry.
 
-✏️ Completed the **Advanced Data Analyst** course by **Yandex Practicum**.  
-[Certificates and confirmation](https://drive.google.com/drive/folders/1NmF3tWnUEAds1IohUIkKuqZ1FickxIH9?usp=sharing)
+🌱 Completed the **MTS Data Analysis School** in Data Science and the **Advanced Data Analyst** course by **Yandex Practicum**.  
+[Certificates](https://drive.google.com/drive/folders/1PhiiXpVWwbKa9gjhQxYCAbW0F1wYVqhb)
 
-🏆 Achievements:  
-- 1st place in the **Gazprom Neft** track at the **ProЦифру** case championship
-- **Top 15%**, 12th place in the **Cup IT 2025** Data Analysis track
+🏆 Achievements:
+
+- 1st place in the **ProЦифру** case championship;
+- 1st place in the **MTS Data Analysis School** Kaggle competition;
+- **Top 15%**, 12th place in the **Cup IT 2025** Data Analysis track.
 
 </td>
 </tr>
@@ -81,42 +84,44 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/statsmodels-blueviolet?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge)
 
 <br>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
 
 <br>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/-LightGBM-00A45E?style=for-the-badge&logo=lightgbm&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-00A45E?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 <br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-LLM%20Search-5A189A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Hybrid%20Search-5A189A?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-NLP-240046?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-3C096C?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -126,12 +131,12 @@
 
 <div align="center">
 
-<a href="https://github.com/KsyLight/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
+<a href="https://github.com/KsyLight/portfolio-ds-mle">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-ds-mle&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/KsyLight/mts-data-analysis-school">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=mts-data-analysis-school&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
+<a href="https://github.com/KsyLight/portfolio-da-pa">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-da-pa&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
 </a>
 
 </div>
