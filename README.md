@@ -12,7 +12,7 @@
 <h1 align="center"><strong>Vasilenko Egor / Егор Василенко</strong></h1>
 
 <h3 align="center">
-  Data Scientist · Data Analyst · ML Engineer
+  Data Scientist · ML Engineer · Data Analyst · Product Analyst
 </h3>
 
 <div align="center">
