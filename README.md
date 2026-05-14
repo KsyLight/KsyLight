@@ -131,7 +131,7 @@
 
 <div align="center">
 
-<a href="https://github.com/KsyLight/portfolio-ds-mle">
+<a href="https://github.com/KsyLight/portfolio-ds-ml">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-ds-mle&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
 </a>
 &nbsp;&nbsp;
