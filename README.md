@@ -12,7 +12,7 @@
 <h1 align="center"><strong>Vasilenko Egor / Егор Василенко</strong></h1>
 
 <h3 align="center">
-  Data Scientist Intern · ML Engineer Intern · Data Analyst
+  Data Scientist · Data Analyst · ML Engineer
 </h3>
 
 <div align="center">
