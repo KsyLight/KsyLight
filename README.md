@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![DS/MLE Portfolio](https://img.shields.io/badge/Portfolio-DS%20%2F%20MLE-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio-ds-mle)
+[![DS/MLE Portfolio](https://img.shields.io/badge/Portfolio-DS%20%2F%20MLE-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio-ds-ml)
 [![DA/PA Portfolio](https://img.shields.io/badge/Portfolio-DA%20%2F%20PA-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KsyLight/portfolio-da-pa)
 [![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1PhiiXpVWwbKa9gjhQxYCAbW0F1wYVqhb)
 [![CV RU](https://img.shields.io/badge/CV-Russian-003566?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/KsyLight/my-cv/blob/main/Russian_CV.pdf)
