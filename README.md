@@ -12,7 +12,7 @@
 <h1 align="center"><strong>Vasilenko Egor / Егор Василенко</strong></h1>
 
 <h3 align="center">
-  Data Science · ML Engineering
+  Data Science · ML Engineer
 </h3>
 
 <div align="center">
