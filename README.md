@@ -90,8 +90,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-3C096C?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 <br>
 
@@ -99,14 +105,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge)
-
-<br>
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
-
-<br>
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
@@ -125,16 +125,10 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflows-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid%20Search-5A189A?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-NLP-240046?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-3C096C?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 <br>
 
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Statistics-6A4C93?style=for-the-badge)
-![DataLens](https://img.shields.io/badge/DataLens-BI-FFCC00?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-BI-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 </div>
 
