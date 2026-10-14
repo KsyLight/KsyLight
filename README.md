@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29000e,100:5A189A&height=170&section=header&text=Egor%20Vasilenko&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20·%20ML%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:29000e,35:5A189A,70:9D4EDD,100:FFD447&height=230&section=header&text=Egor%20Vasilenko&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=FFD447&strokeWidth=1&desc=Егор%20Василенко&descSize=20&descAlignY=60" width="100%" />
+
+<a href="https://github.com/KsyLight">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=520&lines=Data+Scientist+%C2%B7+ML+Engineer;LLM+%C2%B7+RAG+%C2%B7+AI+Agents;Uplift+Modeling+%C2%B7+Scoring;Product+Analytics+%C2%B7+A%2FB+Testing" alt="Typing SVG" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KsyLight&style=flat-square&color=5A189A&label=Profile+views)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ksylight20.08@gmail.com)
@@ -23,8 +29,8 @@
 - 🎓 Магистрант **ИТМО** — «Искусственный интеллект и поведенческая экономика»
 - 🎓 Выпускник **СПбГЭУ** — «Математическое моделирование и анализ данных в экономике»
 - ⚙️ **ML Engineer / Data Scientist** в **Газпромнефть ИТО**: RAG-сервис для поиска и ответов по корпоративному реестру (гибридный поиск, BM25, векторная БД, реранкинг, tool-routing)
-- 🌱 **Школа аналитиков данных МТС** (Data Science), **Яндекс Практикум** — «Аналитик данных расширенный»
-- 🧠 Интересы: LLM и RAG, NLP, табличный ML, антифрод, скоринг, A/B-тесты, продуктовая аналитика
+- 🌱 **МТС Школа аналитиков данных** (Data Science), **Яндекс Практикум** — «Аналитик данных расширенный»
+- 🧠 Интересы: LLM, RAG и ИИ-агенты, NLP, табличный ML, uplift-моделирование, антифрод, скоринг, A/B-тесты, продуктовая аналитика
 
 </td>
 <td width="50%" valign="top">
@@ -35,7 +41,7 @@
 - 🎓 Graduate of **SPbSUE** — Mathematical Modeling & Data Analysis in Economics
 - ⚙️ **ML Engineer / Data Scientist** at **Gazpromneft ITO**: RAG service for Q&A over a corporate registry (hybrid search, BM25, vector DB, reranking, tool routing)
 - 🌱 **MTS Data Analysis School** (Data Science), **Yandex Practicum** — Advanced Data Analyst
-- 🧠 Interests: LLMs & RAG, NLP, tabular ML, fraud detection, scoring, A/B testing, product analytics
+- 🧠 Interests: LLMs, RAG & AI agents, NLP, tabular ML, uplift modeling, fraud detection, scoring, A/B testing, product analytics
 
 </td>
 </tr>
@@ -46,8 +52,8 @@
 | | Соревнование / Competition | Результат / Result |
 |:-:|---|---|
 | 🥇 | Кейс-чемпионат **ProЦифру** | 1st place |
-| 🥇 | Kaggle-соревнование **ШАД МТС** / MTS DAS Kaggle | 1st place |
-| 🏅 | **Cup IT 2025** — Data Analysis | 12th place, Top-15% |
+| 🥇 | Внутреннее Kaggle-соревнование **МТС Школы аналитиков данных** / Internal Kaggle competition, **MTS Data Analysis School** | 1st place |
+| 🔝 | **Cup IT 2025** — Data Analysis | 12th place, Top-15% |
 
 ## 🛠 Стек / Tech stack
 
