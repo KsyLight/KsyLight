@@ -38,7 +38,7 @@
 
 **🎓 Education**
 - **ITMO University** — MSc, AI & Behavioral Economics
-- **SPbSUE** — Economics, Mathematical Modeling & Data Analysis
+- **SPbSUE (Unecon)** — Economics, Mathematical Modeling & Data Analysis
 
 **📚 Additional training**
 - **MTS Data Analysis School** — Data Science track
