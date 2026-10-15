@@ -2,18 +2,18 @@
 
 <img src="./header.svg" width="100%" alt="Egor Vasilenko — Data Scientist · ML Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFB7D0&center=true&vCenter=true&width=560&lines=Data+Scientist+%C2%B7+ML+Engineer;LLM+%C2%B7+RAG+%C2%B7+AI+Agents;Uplift+Modeling+%C2%B7+Scoring+%C2%B7+Antifraud;Product+Analytics+%C2%B7+A%2FB+Testing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=560&lines=Data+Scientist+%C2%B7+ML+Engineer;LLM+%C2%B7+RAG+%C2%B7+AI+Agents;Uplift+Modeling+%C2%B7+Scoring+%C2%B7+Antifraud;Product+Analytics+%C2%B7+A%2FB+Testing" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a0b4d?style=for-the-badge&logo=linkedin&logoColor=FFB7D0)](https://www.linkedin.com/in/egor-vasilenko-84bbb6368/)
-[![Telegram](https://img.shields.io/badge/Telegram-2a0b4d?style=for-the-badge&logo=telegram&logoColor=FFB7D0)](https://t.me/oknelisavroge)
-[![Gmail](https://img.shields.io/badge/Gmail-2a0b4d?style=for-the-badge&logo=gmail&logoColor=FFB7D0)](mailto:ksylight20.08@gmail.com)
-[![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-2a0b4d?style=for-the-badge&logo=yandex&logoColor=FFB7D0)](mailto:egor.vasilenko.2004@yandex.ru)
-[![Kaggle](https://img.shields.io/badge/Kaggle-2a0b4d?style=for-the-badge&logo=kaggle&logoColor=FFB7D0)](https://www.kaggle.com/ksylight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b0510?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/egor-vasilenko-84bbb6368/)
+[![Telegram](https://img.shields.io/badge/Telegram-2b0510?style=for-the-badge&logo=telegram&logoColor=D4AF37)](https://t.me/oknelisavroge)
+[![Gmail](https://img.shields.io/badge/Gmail-2b0510?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:ksylight20.08@gmail.com)
+[![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-2b0510?style=for-the-badge&logo=yandex&logoColor=D4AF37)](mailto:egor.vasilenko.2004@yandex.ru)
+[![Kaggle](https://img.shields.io/badge/Kaggle-2b0510?style=for-the-badge&logo=kaggle&logoColor=D4AF37)](https://www.kaggle.com/ksylight)
 
-[![CV RU](https://img.shields.io/badge/CV-RU-7a1f6e?style=for-the-badge&logo=readme&logoColor=FFD447&labelColor=4a1a66)](https://github.com/KsyLight/my-cv/blob/main/Russian_CV.pdf)
-[![CV EN](https://img.shields.io/badge/CV-EN-7a1f6e?style=for-the-badge&logo=readme&logoColor=FFD447&labelColor=4a1a66)](https://github.com/KsyLight/my-cv/blob/main/English_CV.pdf)
-[![Certificates](https://img.shields.io/badge/Certificates-Drive-7a1f6e?style=for-the-badge&logo=googledrive&logoColor=FFD447&labelColor=4a1a66)](https://drive.google.com/drive/folders/1PhiiXpVWwbKa9gjhQxYCAbW0F1wYVqhb)
-![Profile views](https://komarev.com/ghpvc/?username=KsyLight&style=for-the-badge&color=7a1f6e&label=Views)
+[![CV RU](https://img.shields.io/badge/CV-RU-800020?style=for-the-badge&logo=readme&logoColor=D4AF37&labelColor=120206)](https://github.com/KsyLight/my-cv/blob/main/Russian_CV.pdf)
+[![CV EN](https://img.shields.io/badge/CV-EN-800020?style=for-the-badge&logo=readme&logoColor=D4AF37&labelColor=120206)](https://github.com/KsyLight/my-cv/blob/main/English_CV.pdf)
+[![Certificates](https://img.shields.io/badge/Certificates-Drive-800020?style=for-the-badge&logo=googledrive&logoColor=D4AF37&labelColor=120206)](https://drive.google.com/drive/folders/1PhiiXpVWwbKa9gjhQxYCAbW0F1wYVqhb)
+![Profile views](https://komarev.com/ghpvc/?username=KsyLight&style=for-the-badge&color=800020&label=Views)
 
 </div>
 
@@ -54,13 +54,13 @@
 
 | | |
 |---|---|
-| 🐍 **Core** | ![Python](https://img.shields.io/badge/Python-2a0b4d?style=flat-square&logo=python&logoColor=FFD447) ![SQL](https://img.shields.io/badge/SQL-2a0b4d?style=flat-square&logo=postgresql&logoColor=FFD447) ![Git](https://img.shields.io/badge/Git-2a0b4d?style=flat-square&logo=git&logoColor=FFD447) |
-| 🤖 **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-4a1a66?style=flat-square&logo=scikitlearn&logoColor=FFD447) ![CatBoost](https://img.shields.io/badge/CatBoost-4a1a66?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-4a1a66?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-4a1a66?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-4a1a66?style=flat-square&logo=pytorch&logoColor=FFD447) |
-| 🧠 **LLM · RAG · Agents** | ![LangChain](https://img.shields.io/badge/LangChain-7a1f6e?style=flat-square&logo=langchain&logoColor=FFD447) ![LangGraph](https://img.shields.io/badge/LangGraph-7a1f6e?style=flat-square&logo=langgraph&logoColor=FFD447) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7a1f6e?style=flat-square) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search_·_BM25_·_Reranking-7a1f6e?style=flat-square) |
-| 📊 **Data & Statistics** | ![NumPy](https://img.shields.io/badge/NumPy-a12d74?style=flat-square&logo=numpy&logoColor=FFD447) ![Pandas](https://img.shields.io/badge/Pandas-a12d74?style=flat-square&logo=pandas&logoColor=FFD447) ![SciPy](https://img.shields.io/badge/SciPy-a12d74?style=flat-square&logo=scipy&logoColor=FFD447) ![Statsmodels](https://img.shields.io/badge/Statsmodels-a12d74?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-a12d74?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-a12d74?style=flat-square) |
-| 📈 **Product Analytics** | ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-d1477a?style=flat-square) ![Uplift Modeling](https://img.shields.io/badge/Uplift_Modeling-d1477a?style=flat-square) ![Product Metrics](https://img.shields.io/badge/Product_Metrics-d1477a?style=flat-square) |
-| 🗄 **Databases & Big Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff7aa8?style=flat-square&logo=postgresql&logoColor=2a0b4d) ![ClickHouse](https://img.shields.io/badge/ClickHouse-ff7aa8?style=flat-square&logo=clickhouse&logoColor=2a0b4d) ![PySpark](https://img.shields.io/badge/PySpark-ff7aa8?style=flat-square&logo=apachespark&logoColor=2a0b4d) |
-| 🚀 **Deploy & Serving** | ![Docker](https://img.shields.io/badge/Docker-FFD447?style=flat-square&logo=docker&logoColor=2a0b4d) ![FastAPI](https://img.shields.io/badge/FastAPI-FFD447?style=flat-square&logo=fastapi&logoColor=2a0b4d) ![Streamlit](https://img.shields.io/badge/Streamlit-FFD447?style=flat-square&logo=streamlit&logoColor=2a0b4d) |
+| 🐍 **Core** | ![Python](https://img.shields.io/badge/Python-120206?style=flat-square&logo=python&logoColor=D4AF37) ![SQL](https://img.shields.io/badge/SQL-120206?style=flat-square&logo=postgresql&logoColor=D4AF37) ![Git](https://img.shields.io/badge/Git-120206?style=flat-square&logo=git&logoColor=D4AF37) |
+| 🤖 **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-2b0510?style=flat-square&logo=scikitlearn&logoColor=D4AF37) ![CatBoost](https://img.shields.io/badge/CatBoost-2b0510?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-2b0510?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-2b0510?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-2b0510?style=flat-square&logo=pytorch&logoColor=D4AF37) |
+| 🧠 **LLM · RAG · Agents** | ![LangChain](https://img.shields.io/badge/LangChain-4a0a18?style=flat-square&logo=langchain&logoColor=D4AF37) ![LangGraph](https://img.shields.io/badge/LangGraph-4a0a18?style=flat-square&logo=langgraph&logoColor=D4AF37) ![ChromaDB](https://img.shields.io/badge/ChromaDB-4a0a18?style=flat-square) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search_·_BM25_·_Reranking-4a0a18?style=flat-square) |
+| 📊 **Data & Statistics** | ![NumPy](https://img.shields.io/badge/NumPy-5c0a1e?style=flat-square&logo=numpy&logoColor=D4AF37) ![Pandas](https://img.shields.io/badge/Pandas-5c0a1e?style=flat-square&logo=pandas&logoColor=D4AF37) ![SciPy](https://img.shields.io/badge/SciPy-5c0a1e?style=flat-square&logo=scipy&logoColor=D4AF37) ![Statsmodels](https://img.shields.io/badge/Statsmodels-5c0a1e?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-5c0a1e?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-5c0a1e?style=flat-square) |
+| 📈 **Product Analytics** | ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-800020?style=flat-square) ![Uplift Modeling](https://img.shields.io/badge/Uplift_Modeling-800020?style=flat-square) ![Product Metrics](https://img.shields.io/badge/Product_Metrics-800020?style=flat-square) |
+| 🗄 **Databases & Big Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9b1b30?style=flat-square&logo=postgresql&logoColor=D4AF37) ![ClickHouse](https://img.shields.io/badge/ClickHouse-9b1b30?style=flat-square&logo=clickhouse&logoColor=D4AF37) ![PySpark](https://img.shields.io/badge/PySpark-9b1b30?style=flat-square&logo=apachespark&logoColor=D4AF37) |
+| 🚀 **Deploy & Serving** | ![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square&logo=docker&logoColor=120206) ![FastAPI](https://img.shields.io/badge/FastAPI-D4AF37?style=flat-square&logo=fastapi&logoColor=120206) ![Streamlit](https://img.shields.io/badge/Streamlit-D4AF37?style=flat-square&logo=streamlit&logoColor=120206) |
 
 ## 🏆 Достижения / Achievements
 
@@ -75,10 +75,10 @@
 <div align="center">
 
 <a href="https://github.com/KsyLight/portfolio-ds-ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-ds-ml&card_width=420&bg_color=1a0630&title_color=ffd447&text_color=ffffff&icon_color=ff7aa8&border_color=7a1f6e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-ds-ml&card_width=420&bg_color=120206&title_color=d4af37&text_color=f3e3c3&icon_color=d4af37&border_color=800020" />
 </a>
 <a href="https://github.com/KsyLight/portfolio-da-pa">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-da-pa&card_width=420&bg_color=1a0630&title_color=ffd447&text_color=ffffff&icon_color=ff7aa8&border_color=7a1f6e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-da-pa&card_width=420&bg_color=120206&title_color=d4af37&text_color=f3e3c3&icon_color=d4af37&border_color=800020" />
 </a>
 
 <br><br>
