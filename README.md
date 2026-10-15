@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:29000e,35:5A189A,70:9D4EDD,100:FFD447&height=230&section=header&text=Egor%20Vasilenko&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=FFD447&strokeWidth=1&desc=Егор%20Василенко&descSize=20&descAlignY=60" width="100%" />
+<img src="./header.svg" width="100%" alt="Egor Vasilenko — Data Scientist · ML Engineer" />
 
 <a href="https://github.com/KsyLight">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=520&lines=Data+Scientist+%C2%B7+ML+Engineer;LLM+%C2%B7+RAG+%C2%B7+AI+Agents;Uplift+Modeling+%C2%B7+Scoring;Product+Analytics+%C2%B7+A%2FB+Testing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7AA8&center=true&vCenter=true&width=520&lines=Data+Scientist+%C2%B7+ML+Engineer;LLM+%C2%B7+RAG+%C2%B7+AI+Agents;Uplift+Modeling+%C2%B7+Scoring;Product+Analytics+%C2%B7+A%2FB+Testing" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KsyLight&style=flat-square&color=5A189A&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=KsyLight&style=flat-square&color=7A1F6E&label=Profile+views)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oknelisavroge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ksylight20.08@gmail.com)
@@ -24,36 +24,52 @@
 <tr>
 <td width="50%" valign="top">
 
-**🇷🇺 Русский**
+**🎓 Образование**
+- **ИТМО** — магистратура «Искусственный интеллект и поведенческая экономика»
+- **СПбГЭУ** — «Экономика», профиль «Математическое моделирование и анализ данных в экономике»
 
-- 🎓 Магистрант **ИТМО** — «Искусственный интеллект и поведенческая экономика»
-- 🎓 Выпускник **СПбГЭУ** — «Математическое моделирование и анализ данных в экономике»
-- ⚙️ **ML Engineer / Data Scientist** в **Газпромнефть ИТО**: RAG-сервис для поиска и ответов по корпоративному реестру (гибридный поиск, BM25, векторная БД, реранкинг, tool-routing)
-- 🌱 **МТС Школа аналитиков данных** (Data Science), **Яндекс Практикум** — «Аналитик данных расширенный»
-- 🧠 Интересы: LLM, RAG и ИИ-агенты, NLP, табличный ML, uplift-моделирование, антифрод, скоринг, A/B-тесты, продуктовая аналитика
+**📚 Обучение**
+- **МТС Школа аналитиков данных** — Data Science
+- **Яндекс Практикум** — «Аналитик данных расширенный»
+
+**🧠 Фокус**
+LLM · RAG · ИИ-агенты · NLP · табличный ML · uplift-моделирование · антифрод · скоринг · A/B-тесты · продуктовая аналитика
 
 </td>
 <td width="50%" valign="top">
 
-**🇬🇧 English**
+**🎓 Education**
+- **ITMO University** — MSc, AI & Behavioral Economics
+- **SPbSUE** — Economics, Mathematical Modeling & Data Analysis
 
-- 🎓 Master's student at **ITMO** — AI & Behavioral Economics
-- 🎓 Graduate of **SPbSUE** — Mathematical Modeling & Data Analysis in Economics
-- ⚙️ **ML Engineer / Data Scientist** at **Gazpromneft ITO**: RAG service for Q&A over a corporate registry (hybrid search, BM25, vector DB, reranking, tool routing)
-- 🌱 **MTS Data Analysis School** (Data Science), **Yandex Practicum** — Advanced Data Analyst
-- 🧠 Interests: LLMs, RAG & AI agents, NLP, tabular ML, uplift modeling, fraud detection, scoring, A/B testing, product analytics
+**📚 Training**
+- **MTS Data Analysis School** — Data Science
+- **Yandex Practicum** — Advanced Data Analyst
+
+**🧠 Focus**
+LLMs · RAG · AI agents · NLP · tabular ML · uplift modeling · fraud detection · scoring · A/B testing · product analytics
 
 </td>
 </tr>
 </table>
 
-## 🏆 Достижения / Achievements
+## 💼 Опыт / Experience
 
-| | Соревнование / Competition | Результат / Result |
-|:-:|---|---|
-| 🥇 | Кейс-чемпионат **ProЦифру** | 1st place |
-| 🥇 | Внутреннее Kaggle-соревнование **МТС Школы аналитиков данных** / Internal Kaggle competition, **MTS Data Analysis School** | 1st place |
-| 🔝 | **Cup IT 2025** — Data Analysis | 12th place, Top-15% |
+<table>
+<tr>
+<td>
+
+### ⚙️ Газпромнефть ИТО · Gazpromneft ITO
+**ML Engineer / Data Scientist**
+
+🇷🇺 Разработал RAG-сервис для интеллектуального поиска и ответов на вопросы по корпоративному Excel-реестру проектов.<br>
+🇬🇧 Built a RAG service for intelligent search and Q&A over a corporate Excel project registry.
+
+`Hybrid search` `BM25` `Vector DB` `Reranking` `Tool-based query routing`
+
+</td>
+</tr>
+</table>
 
 ## 🛠 Стек / Tech stack
 
@@ -66,23 +82,27 @@
 | **Databases & Big Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
 | **Deploy & Serving** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
+## 🏆 Достижения / Achievements
+
+| | Соревнование / Competition | Результат / Result |
+|:-:|---|---|
+| 🥇 | Кейс-чемпионат **ProЦифру** | 1st place |
+| 🥇 | Внутреннее Kaggle-соревнование **МТС Школы аналитиков данных** / Internal Kaggle competition, **MTS Data Analysis School** | 1st place |
+| 🔝 | **Cup IT 2025** — Data Analysis | 12th place, Top-15% |
+
 ## 📂 Портфолио / Portfolio
 
 <div align="center">
 
 <a href="https://github.com/KsyLight/portfolio-ds-ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-ds-ml&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-ds-ml&card_width=420&bg_color=1a0630&title_color=ffd447&text_color=ffffff&icon_color=ff7aa8&border_color=7a1f6e" />
 </a>
 <a href="https://github.com/KsyLight/portfolio-da-pa">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-da-pa&card_width=420&bg_color=29000e&title_color=ffd447&text_color=ffffff&icon_color=ffd166&border_color=3a0012" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=KsyLight&repo=portfolio-da-pa&card_width=420&bg_color=1a0630&title_color=ffd447&text_color=ffffff&icon_color=ff7aa8&border_color=7a1f6e" />
 </a>
 
-</div>
-
-<div align="center">
+<br><br>
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/KsyLight/snk/main/svg-only/dist/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:29000e&height=100&section=footer" width="100%" />
 
 </div>
