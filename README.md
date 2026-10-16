@@ -17,7 +17,7 @@
 
 </div>
 
-## 👋 Обо мне / About me
+## Обо мне / About me
 
 <table>
 <tr>
@@ -70,7 +70,7 @@
 | 🥇 | Внутреннее Kaggle-соревнование **МТС Школы аналитиков данных** / Internal Kaggle competition, **MTS Data Analysis School** | 1st place |
 | 🔝 | **Cup IT 2025** — Data Analysis | 12th place, Top-15% |
 
-## 📂 Портфолио / Portfolio
+## Портфолио / Portfolio
 
 <div align="center">
 
